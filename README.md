@@ -1,7 +1,7 @@
 SPOTIFY RECOMMENDATION ANALYSIS
 
 Introduction:
-This repository contains the code and documentation for a machine learning project focused on analyzing Spotify data and creating music recommendations. The goal of this project is to build a recommendation system that can suggest songs to users based on their listening history and preferences.
+This repository contains the code and documentation for a machine learning project focused on analyzing Spotify data and creating music recommendations. The goal of this project is to build a recommendation system that can suggest songs to users based on their listening history and preferences. Using and importing Intel Library package the following codes have been created.
 
 Table of Contents
 Project Overview
